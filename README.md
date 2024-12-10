@@ -2,7 +2,7 @@
 
 **ghsxth/ghsxth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-https://cdn.discordapp.com/attachments/1310621480710701086/1313552592558886932/Certificado_Curso_Marimon_-_Leonardo_Soares.png?ex=67591e6e&is=6757ccee&hm=d3b5325f917ca66a0c60aa913391c85b2aa1f6b0bf6a8202d1c27ce4c98dfe42&
+https://cdn.discordapp.com/attachments/1310621480710701086/1313552592558886932/Certificado_Curso_Marimon_-_Leonardo_Soares.png
 
 Here are some ideas to get you started:
 
